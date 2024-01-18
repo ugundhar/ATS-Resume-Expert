@@ -15,7 +15,7 @@ ATS Resume Expert is a Streamlit web application that leverages Google's generat
 ## Getting Started
 
 **1. Clone the repository:**
-   git clone https://github.com/your-username/ATS-Resume-Expert.git
+   git clone https://github.com/ugundhar/ATS-Resume-Expert.git
 
 **2.Install dependencies:**
    pip install -r requirements.txt
