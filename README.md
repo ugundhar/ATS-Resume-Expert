@@ -14,6 +14,24 @@ ATS Resume Expert is a Streamlit web application that leverages Google's generat
 
 ## Getting Started
 
-1. Clone the repository:
-   ```bash
+**1. Clone the repository:**
    git clone https://github.com/your-username/ATS-Resume-Expert.git
+
+**2.Install dependencies:**
+   pip install -r requirements.txt
+   
+**3. Run the Streamlit app:**
+   streamlit run app.py
+**Usage**
+Enter the job description in the provided text area.
+
+Upload a resume (PDF) using the file uploader.
+
+Click on the corresponding button to get insights based on your role (Tell Me About the Resume, How Can I Improve My Skills, Percentage Match).
+
+**Contributing**
+If you'd like to contribute to the project, feel free to submit a pull request.
+
+**License**
+This project is licensed under the MIT License.
+
